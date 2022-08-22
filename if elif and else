@@ -1,9 +1,6 @@
 # 1. Write a program to input two numbers(A & B) from user and print the maximum element among A & B in each line.
 
 def main():
-    # YOUR CODE GOES HERE
-    # Please take input and print output to standard input/output (stdin/stdout)
-    # E.g. 'input()/raw_input()' for input & 'print' for output
 
     A = int(input())
     B = int(input())
@@ -14,5 +11,3 @@ def main():
         res = B
 
     print(res)
-    
-    return 0
